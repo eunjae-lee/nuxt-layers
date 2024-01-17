@@ -1,5 +1,5 @@
 {
-  "name": "base",
+  "name": "base-supabase",
   "private": true,
   "type": "module",
   "main": "./nuxt.config.ts",
@@ -12,10 +12,8 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/tailwindcss": "^6.10.1",
-    "daisyui": "^4.4.24",
+    "@nuxtjs/supabase": "^1.1.4",
     "nuxt": "^3.9.0",
-    "nuxt-icon": "^0.6.8",
     "vue": "^3.3.13",
     "vue-router": "^4.2.5"
   }
